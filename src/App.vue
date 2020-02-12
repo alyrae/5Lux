@@ -8,6 +8,8 @@
 <script lang = 'ts'>
 import { Component, Vue } from 'vue-property-decorator'
 import tabbar from './components/tabbar.vue'
+let a = 2
+let b = 3
 @Component({
   components: {
     tabbar
